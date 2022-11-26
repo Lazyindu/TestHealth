@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Lazyindu/TestHealth",
-    "repository": "https://github.com/Lazyindu/TestHealth",
+    "website": "https://github.com/LazyDeveloperr/LazyPrincess",
+    "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
